@@ -12,6 +12,7 @@ public class test {
         System.out.println(String.class.isInstance(dateFormat.format(lastUpdate)));
         System.out.println("分支操作");
         System.out.println("Dev");
+        System.out.println("Dev22");
         System.out.println("Dev");
         }
 
